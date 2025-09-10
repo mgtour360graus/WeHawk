@@ -1,350 +1,350 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="7.1.11" apprev="21010" start="node12" hassounds="0">
+<tour hassounds="0" appversion="7.1.11" start="node12" apprev="21010">
   <panorama id="node12">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-157.107">
-      <start tilt="0" pan="7.7386" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-157.107" fovmode="2">
+      <start projection="4" pan="7.7386" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node12" heading="-157.107" datetime="" longitude="-51.92640798" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42197356" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.55" pan="-352" url="{node5}" id="Point01" target="" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="13.3277"/>
+    <userdata nodeid="node12" datetime="" tags="editada" info="" description="" heading="-157.107" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92640798" comment="" customnodeid="" latitude="-23.42197356" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node5}" pan="-352" distance="13.3277" description="" target="" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.55" id="Point01"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node5">
-    <input width="3253" height="3253" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3253" height="3253" preload="0" predecode="0"/>
-      <level width="1626" height="1626" preload="0" predecode="0"/>
-      <level width="813" height="813" preload="0" predecode="0"/>
-      <level width="406" height="406" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3253" levelbias="0.400" levelingpitch="0" height="3253" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3253" preload="0" predecode="0" height="3253"/>
+      <level width="1626" preload="0" predecode="0" height="1626"/>
+      <level width="813" preload="0" predecode="0" height="813"/>
+      <level width="406" preload="1" predecode="1" height="406"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-166.676">
-      <start tilt="0" pan="-1.23901" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-166.676" fovmode="2">
+      <start projection="4" pan="-1.23901" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node5" heading="-166.676" datetime="" longitude="-51.92644217" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42208924" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0.38" pan="-0.76" url="{node13}" id="Point01" target="" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.13222"/>
-      <hotspot tilt="0.12" pan="-179.25" url="{node12}" id="Point02" target="-177.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="13.3277"/>
+    <userdata nodeid="node5" datetime="" tags="editada" info="" description="" heading="-166.676" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92644217" comment="" customnodeid="" latitude="-23.42208924" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node13}" pan="-0.76" distance="5.13222" description="" target="" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.38" id="Point01"/>
+      <hotspot url="{node12}" pan="-179.25" distance="13.3277" description="" target="-177.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.12" id="Point02"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node13">
-    <input width="3257" height="3257" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3257" height="3257" preload="0" predecode="0"/>
-      <level width="1628" height="1628" preload="0" predecode="0"/>
-      <level width="814" height="814" preload="0" predecode="0"/>
-      <level width="407" height="407" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3257" levelbias="0.400" levelingpitch="0" height="3257" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3257" preload="0" predecode="0" height="3257"/>
+      <level width="1628" preload="0" predecode="0" height="1628"/>
+      <level width="814" preload="0" predecode="0" height="814"/>
+      <level width="407" preload="1" predecode="1" height="407"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-165.104">
-      <start tilt="0" pan="0.332992" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-165.104" fovmode="2">
+      <start projection="4" pan="0.332992" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node13" heading="-165.104" datetime="" longitude="-51.92645625" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42213355" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.13" pan="-174.32" url="{node5}" id="Point01" target="178.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.13222"/>
-      <hotspot tilt="-0.38" pan="-47.05" url="{node1}" id="Point02" target="-47.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="4.65369"/>
+    <userdata nodeid="node13" datetime="" tags="editada" info="" description="" heading="-165.104" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92645625" comment="" customnodeid="" latitude="-23.42213355" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node5}" pan="-174.32" distance="5.13222" description="" target="178.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.13" id="Point01"/>
+      <hotspot url="{node1}" pan="-47.05" distance="4.65369" description="" target="-47.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.38" id="Point02"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node1">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-164.379">
-      <start tilt="0" pan="0" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-164.379" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node1" heading="-164.379" datetime="" longitude="-51.92649045" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42216124" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0.15" pan="-186.67" url="{node13}" id="Point02" target="-176.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="4.65369"/>
-      <hotspot tilt="0.13" pan="-269.66" url="{node9}" id="Point03" target="91.0/0.0/117.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="4.66835"/>
-      <hotspot tilt="0" pan="2.24473" url="{node2}" id="Point01" target="$fwd" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.02786"/>
-      <hotspot tilt="0" pan="-133.353" url="{node4}" id="Point05" target="$fwd" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.11122"/>
+    <userdata nodeid="node1" datetime="" tags="editada" info="" description="" heading="-164.379" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92649045" comment="" customnodeid="" latitude="-23.42216124" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node13}" pan="-186.67" distance="4.65369" description="" target="-176.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.15" id="Point02"/>
+      <hotspot url="{node9}" pan="-269.66" distance="4.66835" description="" target="91.0/0.0/117.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.13" id="Point03"/>
+      <hotspot url="{node2}" pan="2.24473" distance="5.02786" description="" target="$fwd" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0" id="Point01"/>
+      <hotspot url="{node4}" pan="-133.353" distance="5.11122" description="" target="$fwd" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0" id="Point05"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node4">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-167.025">
-      <start tilt="0" pan="-4.491" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-167.025" fovmode="2">
+      <start projection="4" pan="-4.491" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node4" heading="-167.025" datetime="" longitude="-51.92651627" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42212185" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0.69" pan="352.694" url="{node3}" id="Point02" target="$fwd" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="9.48855"/>
+    <userdata nodeid="node4" datetime="" tags="editada" info="" description="" heading="-167.025" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92651627" comment="" customnodeid="" latitude="-23.42212185" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node3}" pan="352.694" distance="9.48855" description="" target="$fwd" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.69" id="Point02"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node2">
-    <input width="3263" height="3263" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3263" height="3263" preload="0" predecode="0"/>
-      <level width="1631" height="1631" preload="0" predecode="0"/>
-      <level width="815" height="815" preload="0" predecode="0"/>
-      <level width="407" height="407" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3263" levelbias="0.400" levelingpitch="0" height="3263" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3263" preload="0" predecode="0" height="3263"/>
+      <level width="1631" preload="0" predecode="0" height="1631"/>
+      <level width="815" preload="0" predecode="0" height="815"/>
+      <level width="407" preload="1" predecode="1" height="407"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-163.371">
-      <start tilt="0" pan="0" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-163.371" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node2" heading="-163.371" datetime="" longitude="-51.92650185" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42220523" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.67" pan="-58.27" url="{node3}" id="Point01" target="-70.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.48951"/>
-      <hotspot tilt="0.38" pan="-155.36" url="{node4}" id="Point02" target="-144.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="9.38745"/>
-      <hotspot tilt="-0.38" pan="-349.72" url="{node8}" id="Point03" target="178.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.85253"/>
-      <hotspot tilt="0" pan="-176.747" url="{node1}" id="Point04" target="$fwd" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.02786"/>
+    <userdata nodeid="node2" datetime="" tags="editada" info="" description="" heading="-163.371" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92650185" comment="" customnodeid="" latitude="-23.42220523" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node3}" pan="-58.27" distance="3.48951" description="" target="-70.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.67" id="Point01"/>
+      <hotspot url="{node4}" pan="-155.36" distance="9.38745" description="" target="-144.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.38" id="Point02"/>
+      <hotspot url="{node8}" pan="-349.72" distance="3.85253" description="" target="178.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.38" id="Point03"/>
+      <hotspot url="{node1}" pan="-176.747" distance="5.02786" description="" target="$fwd" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0" id="Point04"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node3">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-163.491">
-      <start tilt="0" pan="0" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-163.491" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node3" heading="-163.491" datetime="" longitude="-51.92653605" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42220523" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0.38" pan="-357.31" url="{node6}" id="Point01" target="3.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.86354"/>
-      <hotspot tilt="0.73" pan="-174.42" url="{node4}" id="Point02" target="179.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="9.48855"/>
-      <hotspot tilt="-0.44" pan="-221" url="{node1}" id="Point03" target="142.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="6.75084"/>
-      <hotspot tilt="0" pan="-253.491" url="{node2}" id="Point04" target="$fwd" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.48951"/>
+    <userdata nodeid="node3" datetime="" tags="editada" info="" description="" heading="-163.491" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92653605" comment="" customnodeid="" latitude="-23.42220523" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node6}" pan="-357.31" distance="5.86354" description="" target="3.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.38" id="Point01"/>
+      <hotspot url="{node4}" pan="-174.42" distance="9.48855" description="" target="179.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.73" id="Point02"/>
+      <hotspot url="{node1}" pan="-221" distance="6.75084" description="" target="142.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.44" id="Point03"/>
+      <hotspot url="{node2}" pan="-253.491" distance="3.48951" description="" target="$fwd" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0" id="Point04"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node6">
-    <input width="3271" height="3271" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3271" height="3271" preload="0" predecode="0"/>
-      <level width="1635" height="1635" preload="0" predecode="0"/>
-      <level width="817" height="817" preload="0" predecode="0"/>
-      <level width="408" height="408" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3271" levelbias="0.400" levelingpitch="0" height="3271" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3271" preload="0" predecode="0" height="3271"/>
+      <level width="1635" preload="0" predecode="0" height="1635"/>
+      <level width="817" preload="0" predecode="0" height="817"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-159.36">
-      <start tilt="0" pan="2.6414" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-159.36" fovmode="2">
+      <start projection="4" pan="2.6414" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node6" heading="-159.36" datetime="" longitude="-51.92655482" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42225507" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.13" pan="-308.23" url="{node7}" id="Point01" target="-130.0/0.0/117.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.96323"/>
-      <hotspot tilt="0.17" pan="-176.31" url="{node3}" id="Point02" target="-175.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.86354"/>
+    <userdata nodeid="node6" datetime="" tags="editada" info="" description="" heading="-159.36" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92655482" comment="" customnodeid="" latitude="-23.42225507" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node7}" pan="-308.23" distance="3.96323" description="" target="-130.0/0.0/117.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.13" id="Point01"/>
+      <hotspot url="{node3}" pan="-176.31" distance="5.86354" description="" target="-175.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.17" id="Point02"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node7">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="20.0963">
-      <start tilt="0" pan="-176.457" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="20.0963" fovmode="2">
+      <start projection="4" pan="-176.457" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node7" heading="20.0963" datetime="" longitude="-51.92651962" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42227014" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="0.52" pan="-357" url="{node8}" id="Point01" target="0.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.61273"/>
-      <hotspot tilt="0.42" pan="-308.85" url="{node6}" id="Point02" target="-119.0/0.0/117.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.96323"/>
-      <hotspot tilt="-0.63" pan="-54.78" url="{node11}" id="Point03" target="127.0/0.0/117.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="4.27961"/>
+    <userdata nodeid="node7" datetime="" tags="editada" info="" description="" heading="20.0963" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92651962" comment="" customnodeid="" latitude="-23.42227014" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node8}" pan="-357" distance="3.61273" description="" target="0.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.52" id="Point01"/>
+      <hotspot url="{node6}" pan="-308.85" distance="3.96323" description="" target="-119.0/0.0/117.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.42" id="Point02"/>
+      <hotspot url="{node11}" pan="-54.78" distance="4.27961" description="" target="127.0/0.0/117.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.63" id="Point03"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node8">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start tilt="0" pan="179.506" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="179.506" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node8" heading="0" datetime="" longitude="-51.92650822" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42223938" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.63" pan="-181.24" url="{node7}" id="Point02" target="-179.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.61273"/>
-      <hotspot tilt="0" pan="-9.71263" url="{node2}" id="Point01" target="$fwd" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="3.85253"/>
+    <userdata nodeid="node8" datetime="" tags="editada" info="" description="" heading="0" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92650822" comment="" customnodeid="" latitude="-23.42223938" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node7}" pan="-181.24" distance="3.61273" description="" target="-179.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.63" id="Point02"/>
+      <hotspot url="{node2}" pan="-9.71263" distance="3.85253" description="" target="$fwd" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0" id="Point01"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node9">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="200.642">
-      <start tilt="0" pan="3.23111" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="200.642" fovmode="2">
+      <start projection="4" pan="3.23111" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node9" heading="200.642" datetime="" longitude="-51.92644519" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42216739" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.17" pan="-91.37" url="{node1}" id="Point01" target="-99.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="4.66835"/>
-      <hotspot tilt="-1.21" pan="-357.09" url="{node10}" id="Point02" target="0.0/0.0/108.2" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.32787"/>
+    <userdata nodeid="node9" datetime="" tags="editada" info="" description="" heading="200.642" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92644519" comment="" customnodeid="" latitude="-23.42216739" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node1}" pan="-91.37" distance="4.66835" description="" target="-99.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.17" id="Point01"/>
+      <hotspot url="{node10}" pan="-357.09" distance="5.32787" description="" target="0.0/0.0/108.2" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-1.21" id="Point02"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node10">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-163.426">
-      <start tilt="0" pan="0" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-163.426" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node10" heading="-163.426" datetime="" longitude="-51.92645927" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42221353" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-1.02" pan="-175.02" url="{node9}" id="Point01" target="-177.0/0.0/117.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="5.32787"/>
-      <hotspot tilt="-0.44" pan="-359.71" url="{node11}" id="Point02" target="-1.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="6.40603"/>
+    <userdata nodeid="node10" datetime="" tags="editada" info="" description="" heading="-163.426" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92645927" comment="" customnodeid="" latitude="-23.42221353" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node9}" pan="-175.02" distance="5.32787" description="" target="-177.0/0.0/117.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-1.02" id="Point01"/>
+      <hotspot url="{node11}" pan="-359.71" distance="6.40603" description="" target="-1.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.44" id="Point02"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <panorama id="node11">
-    <input width="3000" height="3000" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
-      <level width="3000" height="3000" preload="0" predecode="0"/>
-      <level width="1500" height="1500" preload="0" predecode="0"/>
-      <level width="750" height="750" preload="0" predecode="0"/>
-      <level width="375" height="375" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input levelingroll="0" levelbiashidpi="1.000" overlap="1" width="3000" levelbias="0.400" levelingpitch="0" height="3000" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-160.051">
-      <start tilt="0" pan="0" fov="100" projection="4"/>
-      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max scaletofit="1" tilt="90" fovfisheye="360" pan="360" fov="140" fovstereographic="330"/>
+    <view pannorth="-160.051" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" tilt="90" fov="140" fovstereographic="330"/>
     </view>
-    <userdata copyright="" author="" tags="editada" info="" nodeid="node11" heading="-160.051" datetime="" longitude="-51.92647771" description="" source="" title="WeHawk - Mobilidade Elétrica&#xa;" customnodeid="" latitude="-23.42226860" comment=""/>
-    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
-      <label background="1" width="180" border="1" textcolor="0x000000" wordwrap="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" enabled="1" textalpha="1"/>
-      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot tilt="-0.88" pan="-42.77" url="{node7}" id="Point01" target="134.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="4.27961"/>
-      <hotspot tilt="0.17" pan="-181.85" url="{node10}" id="Point02" target="-176.0/0.0/100.0" description="" title="WeHawk - Mobilidade Elétrica&#xa;" skinid="ht_node" distance="6.40603"/>
+    <userdata nodeid="node11" datetime="" tags="editada" info="" description="" heading="-160.051" title="WeHawk - Mobilidade Elétrica&#xa;" copyright="" source="" longitude="-51.92647771" comment="" customnodeid="" latitude="-23.42226860" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" borderradius="1" border="1" borderalpha="1" enabled="1" width="180" bordercolor="0x000000" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot url="{node7}" pan="-42.77" distance="4.27961" description="" target="134.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="-0.88" id="Point01"/>
+      <hotspot url="{node10}" pan="-181.85" distance="6.40603" description="" target="-176.0/0.0/100.0" skinid="ht_node" title="WeHawk - Mobilidade Elétrica&#xa;" tilt="0.17" id="Point02"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomafterinfov="140" zoomfov="40" enabled="1"/>
-    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" contextprojections="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" simulatemass="1" hideabout="0" lockedmouse="0" rubberband="0" lockedwheel="0" contextfullscreen="1" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1"/>
+    <transition delay="none" zoomspeed="2" zoomfov="40" zoomin="0" type="crossdissolve" zoomafterinfov="140" softedge="0" enabled="1" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control contextvr="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" contextprojections="0" speedwheel="1" lockedwheel="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0"/>
   </panorama>
   <masternode>
-    <userdata description="" title="" copyright="" author="" comment="" tags=""/>
+    <userdata description="" title="" copyright="" comment="" tags="" author=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
